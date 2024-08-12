@@ -15,29 +15,6 @@ ProjectName and Description
 <!-- PROJECT LOGO -->
 <br />
 
-<p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">"完美的"README模板</h3>
-  <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
-  </p>
-
-</p>
-
-
- 本篇README.md面向开发者
  
 ## Abstract
 Cell length is one of  important parameters of cell morphology, which is of great significance for understanding cell structure, function,and physiological status. This paper uses the Omnipose method to segment rod-shaped bacterial cells, determine their skeleton and measure the length of rod-shaped bacterial cells. Compared with other algorithms, this algorithm proposed in this paper has smaller errors, achieving higher accuracy and stability in measuring bacterial cell length. The method described in the paper can quickly and automatically batch process a large number of cell images, and calculate the length of cells with high accuracy. This algorithm  also provides a convenient, efficient, and reliable method for the study and experimentations of cell morphology.
