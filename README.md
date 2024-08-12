@@ -47,7 +47,7 @@ Cell length is one of  important parameters of cell morphology, which is of grea
 
 1. Clone this repo, and we'll call the directory that you cloned as ${FAIRMOT_ROOT}
 ```sh
-https://github.com/chengkf/cellsegment.git
+https://github.com/chengkf/cell.git
 ```
 2. Install dependencies. We use python 3.10 and pytorch >= 1.7.0
 ```sh
