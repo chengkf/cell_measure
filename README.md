@@ -40,7 +40,7 @@ ProjectName and Description
  本篇README.md面向开发者
  
 ## Abstract
-
+Cell length is one of  important parameters of cell morphology, which is of great significance for understanding cell structure, function,and physiological status. This paper uses the Omnipose method to segment rod-shaped bacterial cells, determine their skeleton and measure the length of rod-shaped bacterial cells. Compared with other algorithms, this algorithm proposed in this paper has smaller errors, achieving higher accuracy and stability in measuring bacterial cell length. The method described in the paper can quickly and automatically batch process a large number of cell images, and calculate the length of cells with high accuracy. This algorithm  also provides a convenient, efficient, and reliable method for the study and experimentations of cell morphology.
 
 ## Installation
 
