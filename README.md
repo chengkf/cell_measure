@@ -52,16 +52,16 @@ python3 run.py
 
 
 <!-- links -->
-[your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://github.com/chengkf/cell.svg?style=flat-square
+[your-project-path]:chengkf/cell
+[contributors-shield]: https://img.shields.io/github/contributors/chengkf/cell.svg?style=flat-square
 [contributors-url]: https://github.com/chengkf/cell/graphs/contributors
-[forks-shield]: https://github.com/chengkf/cell.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/chengkf/cell.svg?style=flat-square
 [forks-url]: https://github.com/chengkf/cell/network/members
-[stars-shield]: https://github.com/chengkf/cell.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/chengkf/cell.svg?style=flat-square
 [stars-url]: https://github.com/chengkf/cell/stargazers
-[issues-shield]: https://github.com/chengkf/cell.svg?style=flat-square
-[issues-url]: https://github.com/chengkf/cell.svg
-[license-shield]: https://github.com/chengkf/cell.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/chengkf/cell.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/chengkf/cell.svg
+[license-shield]: https://img.shields.io/github/license/chengkf/cell.svg?style=flat-square
 [license-url]: https://github.com/chengkf/cell/blob/master/LICENSE.txt
 
 
