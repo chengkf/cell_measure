@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```sh
 python3 app.py
 ```
-2. visit
+2. Visit
 ```sh
 http://127.0.0.1:5001
 ```
