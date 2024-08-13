@@ -22,8 +22,14 @@ pip install -r requirements.txt
 ```
 
 ## run
+
+Run the app。py file
 ```sh
 python3 app.py
+```
+visit
+```sh
+http://127.0.0.1:5001
 ```
 
 ## Licensing
