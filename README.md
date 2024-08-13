@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## run
 
-Run the app。py file
+Run the app.py
 ```sh
 python3 app.py
 ```
