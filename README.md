@@ -54,7 +54,8 @@ For detailed information, please refer to [LICENSE](https://github.com/chengkf/c
 [forks-shield]: https://img.shields.io/github/forks/chengkf/cell.svg?style=flat-square
 [forks-url]: https://github.com/chengkf/cell/network/members
 [stars-shield]: https://img.shields.io/github/stars/chengkf/cell.svg?style=flat-square
-[stars-url]: https://github.com/chengkf/cell/stargazers
+[stars-url]: https://github.com/chengkf/cell?tab=stars.
+
 [issues-shield]: https://img.shields.io/github/issues/chengkf/cell.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/chengkf/cell.svg
 [license-shield]: https://img.shields.io/github/license/chengkf/cell.svg?style=flat-square
