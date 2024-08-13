@@ -9,7 +9,7 @@ Cell length is one of  important parameters of cell morphology, which is of grea
 
 1. Clone this repo, and we'll call the directory that you cloned as ${FAIRMOT_ROOT}
 ```sh
-https://github.com/chengkf/cell.git
+https://github.com/chengkf/cell_measure.git
 ```
 2. Install dependencies. We use python 3.10 and pytorch >= 1.7.0
 ```sh
@@ -34,7 +34,7 @@ http://127.0.0.1:5001
 
 ## Licensing
 
-For detailed information, please refer to [LICENSE](https://github.com/chengkf/cell/blob/master/LICENSE)。
+For detailed information, please refer to [LICENSE](https://github.com/chengkf/cell_measure/blob/master/LICENSE)。
 
 ## Acknowledgement
 
