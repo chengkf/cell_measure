@@ -23,11 +23,11 @@ pip install -r requirements.txt
 
 ## run
 
-Run the app.py
+1. Run the app.py
 ```sh
 python3 app.py
 ```
-visit
+2. visit
 ```sh
 http://127.0.0.1:5001
 ```
