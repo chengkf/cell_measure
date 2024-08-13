@@ -21,7 +21,7 @@ pip install omnipose
 pip install -r requirements.txt
 ```
 
-## run
+## Run
 
 1. Run the app.py
 ```sh
