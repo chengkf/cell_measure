@@ -34,7 +34,7 @@ http://127.0.0.1:5001
 
 ## Licensing
 
-For detailed information, please refer to [LICENSE](https://github.com/chengkf/cell_measure/blob/master/LICENSE)。
+For detailed information, please refer to [LICENSE](https://github.com/chengkf/cell_measure/blob/master/LICENSE).
 
 ## Acknowledgement
 
