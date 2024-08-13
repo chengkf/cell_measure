@@ -38,7 +38,7 @@ python3 app.py
 
 ## Licensing
 
-For detailed information, please refer to [LICENSE](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE)。
+For detailed information, please refer to [LICENSE](https://github.com/chengkf/cell/blob/master/LICENSE)。
 
 ## Acknowledgement
 
