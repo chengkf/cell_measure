@@ -33,12 +33,12 @@ pip install -r requirements.txt
 
 ## run
 ```sh
-python3 run.py
+python3 app.py
 ```
 
 ## Licensing
 
-有关详细信息，请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)。
+For detailed information, please refer to [LICENSE](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE)。
 
 ## Acknowledgement
 
